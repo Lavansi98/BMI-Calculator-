@@ -37,6 +37,7 @@ body{
 .data{
     flex: 1;
     padding: 15px;
+    margin-top: 40px;
 }
 
 h1{
